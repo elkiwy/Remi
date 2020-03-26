@@ -8,6 +8,8 @@ and use this app you have to host all the php scripts in the `Backend`
 folder on your webserver and replace the url string in
 `ui_src/ui/backend.cljs` with your backend url.
 
+![Remi](https://github.com/elkiwy/Remi/raw/master/screenshot.png)
+
 
 # TODO
 - add "calendar" view
